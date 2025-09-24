@@ -1,6 +1,6 @@
 ---
 layout: post
-draft: true
+draft: false
 mathjax: true
 title: Google foobar challenge
 ---
